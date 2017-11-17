@@ -1,2 +1,2 @@
 # execlass
-Wrapper class for PHP's exec() function
+Simple wrapper class for PHP's exec() function
