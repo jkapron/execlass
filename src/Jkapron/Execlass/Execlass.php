@@ -1,5 +1,5 @@
-
 <?php
+
 namespace Jkapron\Execlass;
 
 class Execlass {
