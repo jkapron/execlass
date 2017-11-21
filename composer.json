@@ -4,5 +4,8 @@
         "psr-0" : {
             "Jkapron\\Execlass" : "src"
         }
+    },
+    "require": {
+        "php": ">=5.2.0"
     }
 }
