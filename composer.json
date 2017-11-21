@@ -1,0 +1,8 @@
+{
+    "name": "jkapron/execlass",
+    "autoload": {
+        "psr-0" : {
+            "Jkapron\\Execlass" : "src"
+        }
+    }
+}
