@@ -9,7 +9,7 @@ class Execlass {
   var $output = array();
   
   public static function withCommandLine( $commandLine ) {
-    return new Exec( $commandLine) ;
+    return new Execlass( $commandLine) ;
   }
   
   function __construct( $commandLine ) {
